@@ -1,0 +1,18 @@
+.col h6{
+border:1px solid rgba(128, 128, 128, 0.692); 
+text-align: center;
+
+}
+.a{
+    top: 10px;
+    border: 5px solid blue;
+background-color: blue;
+    
+}
+.main p{
+    height: 80px;
+    display: flex;
+    width: 100%;
+    position: relative;
+    float: top;
+}
